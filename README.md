@@ -4,6 +4,10 @@ This repository demonstrates a refactoring from simpler legacy code to scalable 
 
 **Note:** This codebase is anonymized (~90% match with original) and serves as an example of architectural patterns and principles.
 
+## Video Walktrhough
+
+https://drive.google.com/file/d/1dMkQgaJ4ERa6ar-GRY0bMe9ohcLIyxOx/view?usp=sharing
+
 ## Overview
 
 The old code (in `old`) was _fine_ for small-scale applications but lacked the structure needed to scale the codebase and team. It used express with some "controller" code.
